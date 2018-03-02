@@ -1,2 +1,3 @@
 a line
 fix typo
+new features
